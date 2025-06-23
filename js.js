@@ -27,6 +27,7 @@ addbtn.addEventListener("click", () => {
     poc.classList.add('popoc');
 
     text.classList.add('textstyle');
+    
 
     let addtxt = inptxt.value;
 
