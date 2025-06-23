@@ -26,7 +26,7 @@ addbtn.addEventListener("click", () => {
 
     poc.classList.add('popoc');
 
-    text.style.textAlign = "center";
+    text.classList.add('textstyle');
 
     let addtxt = inptxt.value;
 
